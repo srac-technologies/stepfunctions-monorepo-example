@@ -1,0 +1,13 @@
+{
+  "name": "clinic-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^3.22.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
